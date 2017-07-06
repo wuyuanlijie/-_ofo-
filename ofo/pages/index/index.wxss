@@ -1,0 +1,11 @@
+/**index.wxss**/
+.container{
+  height: 100vh;
+}
+
+
+#ofoMap{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
